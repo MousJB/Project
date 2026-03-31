@@ -1,4 +1,4 @@
-📟 #PCB Defect Detection with YOLOv8n
+📟 **PCB Defect Detection with YOLOv8n**
 
 Detection and localization of six types of PCB defects using the lightweight YOLOv8n model.
 
