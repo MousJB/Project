@@ -37,7 +37,7 @@ Replace this image with your actual model output.
 ✅ Inference on custom images
 ✅ Dataset statistics (class distribution, bbox sizes)
 🛠 Installation
-git clone https://github.com/tonusername/pcb-defect-detection-yolov8.git
+git clone https://github.com/MousJB/pcb-defect-detection-yolov8.git
 cd pcb-defect-detection-yolov8
 pip install -r requirements.txt
 🚀 Usage
